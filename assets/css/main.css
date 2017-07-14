@@ -1753,6 +1753,7 @@
 		display: -ms-flex;
 		display: flex;
 		height: 100%;
+		background: #000;
 	}
 
 		.gallery > * {
@@ -2183,7 +2184,7 @@
 			.panel > *.color0 {
 				background-image: url("../../images/adi1.jpg");
 				/*background-size: 128px 128px, auto;*/
-				background-size: auto;
+				background-size: cover;
 			}
 
 			.panel > *.color1 {

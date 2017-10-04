@@ -3,7 +3,7 @@
 /***************** Configuration *****************/
 
 // Enter your email, where you want to receive the messages.
-$contact_email_to = "aditya@driphq.co.uk";
+$contact_email_to = "aditya.sakhuja@live.com";
 
 // Subject prefix
 $contact_subject_prefix = "Contact Form Message: ";
